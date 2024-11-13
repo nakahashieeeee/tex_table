@@ -1,7 +1,7 @@
-\documentclass[journal]{IEEEtran}
+%\documentclass[journal]{IEEEtran}
 
-%\documentclass[a4paper, landscape]{jsarticle}%
-%\special{papersize=\the\paperwidth,\the\paperheight}
+\documentclass[a4paper, landscape]{jsarticle}%
+\special{papersize=\the\paperwidth,\the\paperheight}
 
 \usepackage[pdftex]{graphicx}
 \usepackage{subfigure}
@@ -18,15 +18,15 @@
 \newcommand{\nodiff}{$\,\approx$}
 
 %\def\algorythm{SFADE}
-\def\problem{}
-\def\FE{}
-\def\dimension{}
-\def\indicator{}
+\def\problem{LMFnew}
+\def\FE{100}
+\def\dimension{100}
+\def\indicator{IGDp}
 
 \begin{document}
 % MaF or Minus
 %\input{\algorythm_\problem_FE=\FE_D=\dimension_\indicator}
-\input{\problem_FE=\FE_D=\dimension_\indicator}
+\input{./dat/\problem_FE=\FE_D=\dimension_\indicator}
 % HPA
 %\input{HPA_FE=\FE_\indicator}
 
