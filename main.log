@@ -1,9 +1,9 @@
-This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.12.20)  19 OCT 2024 13:13
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.12.20)  13 NOV 2024 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"c:/Users/2164182/OneDrive - 横浜国立大学/Nakata Lab/01_template/tex_table/main"
-(c:/Users/2164182/OneDrive - 横浜国立大学/Nakata Lab/01_template/tex_table/main.tex
+**e:/2323_nakahashi/PlatEMOfor11D-1verLMFnew/tex_table/main
+(e:/2323_nakahashi/PlatEMOfor11D-1verLMFnew/tex_table/main.tex
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -486,4 +486,5 @@ LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <11> not available
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <11> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 26.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on 
+(Font)              No change on input line 26.
+LaTeX Font Info:    Font shape `JT1/mc/b/
